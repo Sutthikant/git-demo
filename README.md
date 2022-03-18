@@ -2,4 +2,5 @@
 git-demo
 
 This line from remote repository.
-\nThis line is from local repository
+
+This line is from local repository
